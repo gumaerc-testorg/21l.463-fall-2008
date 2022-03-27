@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 43859db5-d32a-a7d7-f3f1-1dc2e612c553
 resourcetype: Document
 title: The Faerie Queene, Book I
 uid: 5c11d6b1-63cc-3681-f6e8-4b458ec59d36

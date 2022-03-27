@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 43859db5-d32a-a7d7-f3f1-1dc2e612c553
 resourcetype: Document
 title: Johan Day Letter
 uid: b37e58ef-3b00-d17e-f403-38a29cef0dee
