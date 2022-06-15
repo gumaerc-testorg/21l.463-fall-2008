@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information course requirements, including the
+  three essay assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
