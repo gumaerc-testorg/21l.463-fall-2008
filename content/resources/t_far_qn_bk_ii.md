@@ -5,6 +5,7 @@ file: /courses/21l-463-renaissance-literature-fall-2008/d76bd7c1b341d0773ec8290f
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: The Faerie Queene, Book II
 uid: d76bd7c1-b341-d077-3ec8-290f12b51859
 ---
 Summary of the second book of The Faerie Queene.
-
