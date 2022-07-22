@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the list of readings for the course and the schedule
+  of topics for the lecture sessions.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 43859db5-d32a-a7d7-f3f1-1dc2e612c553
 ---
@@ -51,7 +56,7 @@ Introductions
 {{< tdopen >}}
 
 
-Columbus, _Cabot_ ([PDF]({{< baseurl >}}/resources/johan_day))
+Columbus, _Cabot_ ({{% resource_link b37e58ef-3b00-d17e-f403-38a29cef0dee "PDF" %}})
 
 Vespucci: [_Diaries and Letters_](http://www.fordham.edu/halsall/mod/1497vespucci-america.html).
 
@@ -133,7 +138,7 @@ Cortes, Hernan. "_Letters from Mexico_." (cont.)
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Spenser, _The Faerie Queene_, Book I ([PDF]({{< baseurl >}}/resources/t_far_qne_bk_i))
+Spenser, _The Faerie Queene_, Book I ({{% resource_link 5c11d6b1-63cc-3681-f6e8-4b458ec59d36 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +149,7 @@ Spenser, _The Faerie Queene_, Book I ([PDF]({{< baseurl >}}/resources/t_far_qne_
 {{< tdopen >}}
 
 
-Spenser, _The Faerie Queene_, Book I ([PDF]({{< baseurl >}}/resources/t_far_qne_bk_i)) (cont.)
+Spenser, _The Faerie Queene_, Book I ({{% resource_link 5c11d6b1-63cc-3681-f6e8-4b458ec59d36 "PDF" %}}) (cont.)
 
 Conferences on essay 1
 
@@ -157,7 +162,7 @@ Conferences on essay 1
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Spenser, _The Faerie Queene_, Book II ([PDF]({{< baseurl >}}/resources/t_far_qn_bk_ii))
+Spenser, _The Faerie Queene_, Book II ({{% resource_link d76bd7c1-b341-d077-3ec8-290f12b51859 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +171,7 @@ Spenser, _The Faerie Queene_, Book II ([PDF]({{< baseurl >}}/resources/t_far_qn_
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Spenser, _The Faerie Queene_, Book II ([PDF]({{< baseurl >}}/resources/t_far_qn_bk_ii)) (cont.)
+Spenser, _The Faerie Queene_, Book II ({{% resource_link d76bd7c1-b341-d077-3ec8-290f12b51859 "PDF" %}}) (cont.)
 {{< tdclose >}}
 
 {{< trclose >}}
