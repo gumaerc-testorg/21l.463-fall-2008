@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of the first book of The Faerie Queene.
-file: /ol-ocw-studio-app/courses/21l-463-renaissance-literature-fall-2008/5c11d6b163cc3681f6e84b458ec59d36_t_far_qne_bk_i.pdf
+file: /courses/21l-463-renaissance-literature-fall-2008/5c11d6b163cc3681f6e84b458ec59d36_t_far_qne_bk_i.pdf
 file_size: 23014
 file_type: application/pdf
 learning_resource_types:
