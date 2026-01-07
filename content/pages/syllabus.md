@@ -22,7 +22,7 @@ The Renaissance has justly become both famous and notorious as an age of discove
 Course Reading
 --------------
 
-{{% resource_link "a7e1862f-985c-492b-9221-359ea62c601d" "Luminarium" %}}
+[Luminarium](http://www.luminarium.org/)
 
 An online anthology of English literature from the middle ages through the late 1600's; includes texts as well as background information and links to other resources.
 
@@ -66,7 +66,7 @@ Presentations and work in class
 MIT Literature Statement on Plagiarism
 --------------------------------------
 
-Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the {{% resource_link "2d1ab8a0-12ca-4ac8-94c1-cc7e0ef1a766" "Writing and Communication Center" %}} and the {{% resource_link "942bd3cf-fdff-43f7-9903-e0bcc39eee2d" "MIT Web site on Plagiarism" %}}.
+Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) and the [MIT Web site on Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/).
 
 Calendar
 --------
